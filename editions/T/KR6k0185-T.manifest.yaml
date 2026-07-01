@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR6k0185/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0185/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中天竺舍衛國祇洹寺圖經
+  identifiers:
+    krp: KR6k0185
+    cbeta: T45n1899
+    cbeta_old_id: T45n1899
+    authorityid: CA0002931
+    json_key: T1899
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1899.xml
+    old_id: T45n1899
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0185_000-T.yaml, hash: 'sha256:4d8600ca1c463d8753ec7bf787c975bd3364290b7d25398cb7e8fc8af4b51eab'}
+  - {seq: 1, filename: KR6k0185_001-T.yaml, hash: 'sha256:3c99eb2937940b0c0d20ef0874cdeb4b7fc450c004881cb01600610817281e9e'}
+  - {seq: 2, filename: KR6k0185_002-T.yaml, hash: 'sha256:918ebd0b40a9e7f5691bf1edcea590e705ad6f1e157f61651e35b84192453461'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0185_000-T.markers.yaml, hash: 'sha256:93abe2f718dc5643291c6e5c7f5a8626633875b96b236f0a87bad46c4b3ebf6b'}
+  - {seq: 1, role: markers, filename: assets/KR6k0185_001-T.markers.yaml, hash: 'sha256:9a57beaeaf1d82d82b6a68ea54c29481c7eb1c9f00ca08cb705d98845c215ad6'}
+  - {seq: 2, role: markers, filename: assets/KR6k0185_002-T.markers.yaml, hash: 'sha256:984a772cb4c50826cedb1d530890551fd02606c2e4f183470d883eb921389a12'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0185_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 祇洹圖經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0185_T_000-mulu-2
+    span:
+    - front
+    - 542
+    - 542
+  label: 中天竺舍衛國祇洹寺圖經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0185_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8886
+  label: 祇樹給園圖敘某園寺伽藍別作精舍。大有因緣致不遑廣引
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0185_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10413
+  label: 中天竺舍衛國祇洹寺圖經下卷
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0185_T_002-mulu-1
+    span:
+    - body
+    - 9691
+    - 9691
+  label: 祇洹圖經跋
+  type: mulu
+  level: 1
+hash: sha256:50401c6aee90871bd3e08babafa8989b53397e8591f3e70bc8acc6f342269390
