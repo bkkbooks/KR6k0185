@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0185/v1
 canonical_location: https://kanripo.org/bkk/KR6k0185/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中天竺舍衛國祇洹寺圖經
   identifiers:
@@ -24,13 +24,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0185_000.yaml, hash: 'sha256:4d8600ca1c463d8753ec7bf787c975bd3364290b7d25398cb7e8fc8af4b51eab'}
-  - {seq: 1, filename: KR6k0185_001.yaml, hash: 'sha256:3c99eb2937940b0c0d20ef0874cdeb4b7fc450c004881cb01600610817281e9e'}
-  - {seq: 2, filename: KR6k0185_002.yaml, hash: 'sha256:918ebd0b40a9e7f5691bf1edcea590e705ad6f1e157f61651e35b84192453461'}
+  - {seq: 0, filename: KR6k0185_000.yaml, hash: 'sha256:ec3268354ea5ac1f980993ca1ba5d57b4eb121268ab1e9dac1ce1e8673414784'}
+  - {seq: 1, filename: KR6k0185_001.yaml, hash: 'sha256:d91b9bf22f01d245215084de4098c4f88d709d837f46a409bca614731f546f81'}
+  - {seq: 2, filename: KR6k0185_002.yaml, hash: 'sha256:934741c478ff4e39adb9b98b185100bfb50fe694c942a4956b1c1e89964c3124'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0185_000.markers.yaml, hash: 'sha256:436f3420d571fb067a14a3e0dce0a561cf3f34edfe643b1c5f2cce67342e2145'}
-  - {seq: 1, role: markers, filename: assets/KR6k0185_001.markers.yaml, hash: 'sha256:cb6c1ef54daa1b58b57a9fccc989c5f6e4bec0a88fffd9245d6129a235791456'}
-  - {seq: 2, role: markers, filename: assets/KR6k0185_002.markers.yaml, hash: 'sha256:0af49119e22c11da6466a7640e6f7d37280455edb34d8d4d54c09756ee9c1fdd'}
+  - {seq: 0, role: markers, filename: assets/KR6k0185_000.markers.yaml, hash: 'sha256:50dc5045e1266f2a7d27cc4743cbb581aab1f14e5d4efed9bc05ca8c4be42c9a'}
+  - {seq: 1, role: markers, filename: assets/KR6k0185_001.markers.yaml, hash: 'sha256:fd99a150047ce0af3cd276f64f95c2dc6c946d4a4d432b33255dbe1a79db87a5'}
+  - {seq: 2, role: markers, filename: assets/KR6k0185_002.markers.yaml, hash: 'sha256:9069bd3d70c99693249890e220a7871086abf125285a12dc5097da8318a03686'}
 table_of_contents:
 - ref:
     seq: 0
@@ -82,4 +82,7 @@ table_of_contents:
   label: 祇洹圖經跋
   type: mulu
   level: 1
-hash: sha256:1b91caca530c6dd34f23df1af6ed40f7ab5195098e89f6d4ca0c1d3ef6377654
+hash: sha256:8410e25dcee7cf8f0de1d80bb24357b7da6a5fb0d27e9eab162523b7086dad6a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
