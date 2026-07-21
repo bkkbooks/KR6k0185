@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0185_000.yaml, hash: 'sha256:ec3268354ea5ac1f980993ca1ba5d57b4eb121268ab1e9dac1ce1e8673414784'}
+  - {seq: 0, filename: KR6k0185_000.yaml, hash: 'sha256:0036b01c2a3d765a6ec253172d5da49958f502d569b9e02795077a71a4cfa71b'}
   - {seq: 1, filename: KR6k0185_001.yaml, hash: 'sha256:d91b9bf22f01d245215084de4098c4f88d709d837f46a409bca614731f546f81'}
   - {seq: 2, filename: KR6k0185_002.yaml, hash: 'sha256:934741c478ff4e39adb9b98b185100bfb50fe694c942a4956b1c1e89964c3124'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0185_000.markers.yaml, hash: 'sha256:50dc5045e1266f2a7d27cc4743cbb581aab1f14e5d4efed9bc05ca8c4be42c9a'}
+  - {seq: 0, role: markers, filename: assets/KR6k0185_000.markers.yaml, hash: 'sha256:9a9243b935934aa60d40f4b5ef019cceaf4397fe29f5bcc1c5aab81e0f328681'}
   - {seq: 1, role: markers, filename: assets/KR6k0185_001.markers.yaml, hash: 'sha256:fd99a150047ce0af3cd276f64f95c2dc6c946d4a4d432b33255dbe1a79db87a5'}
   - {seq: 2, role: markers, filename: assets/KR6k0185_002.markers.yaml, hash: 'sha256:9069bd3d70c99693249890e220a7871086abf125285a12dc5097da8318a03686'}
 table_of_contents:
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0185_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 祇洹圖經序
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0185_T_000-mulu-2
     span:
-    - front
+    - body
     - 542
     - 542
   label: 中天竺舍衛國祇洹寺圖經序
@@ -82,7 +82,7 @@ table_of_contents:
   label: 祇洹圖經跋
   type: mulu
   level: 1
-hash: sha256:8410e25dcee7cf8f0de1d80bb24357b7da6a5fb0d27e9eab162523b7086dad6a
+hash: sha256:1799713a16755744e83da781426a91b489225a665bdd31e9562012eeed9a684b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
